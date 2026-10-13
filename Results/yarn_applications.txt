@@ -1,0 +1,5 @@
+2026-10-13 02:05:29,204 INFO client.DefaultNoHARMFailoverProxyProvider: Connecting to ResourceManager at localhost/127.0.0.1:8032
+Total number of applications (application-types: [], states: [NEW, NEW_SAVING, SUBMITTED, ACCEPTED, RUNNING, FINISHED, FAILED, KILLED] and tags: []):2
+                Application-Id	    Application-Name	    Application-Type	      User	     Queue	             State	       Final-State	       Progress	                       Tracking-URL
+application_1791856413853_0001	streamjob13802141756304320763.jar	           MAPREDUCE	      root	root.default	          FINISHED	            FAILED	           100%	http://3b262e90254b:19888/jobhistory/job/job_1791856413853_0001
+application_1791856413853_0002	streamjob2852482709830980054.jar	           MAPREDUCE	      root	root.default	          FINISHED	         SUCCEEDED	           100%	http://3b262e90254b:19888/jobhistory/job/job_1791856413853_0002
